@@ -6,7 +6,7 @@ Marketing teams invest significant resources in campaigns but often lack visibil
 
 Build a Power BI dashboard that evaluates campaign effectiveness, analyzes customer demographics and purchasing patterns, and identifies the key drivers behind campaign acceptance and sales growth.
 ## Skills Demonstrated
-####### Data Cleaning & Transformation (Power Query)
+Data Cleaning & Transformation (Power Query)
 Data Modeling & Relationships
 DAX Measures & KPIs
 Interactive Dashboard Design
