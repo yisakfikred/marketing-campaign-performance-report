@@ -5,6 +5,20 @@ Marketing teams invest significant resources in campaigns but often lack visibil
 ## Project Goal
 
 Build a Power BI dashboard that evaluates campaign effectiveness, analyzes customer demographics and purchasing patterns, and identifies the key drivers behind campaign acceptance and sales growth.
+## Skills Demonstrated
+Data Cleaning & Transformation (Power Query)
+Data Modeling & Relationships
+DAX Measures & KPIs
+Interactive Dashboard Design
+Data Storytelling & Visualization
+Business Performance Analysis
+Marketing Analytics
+## Tools Used
+Power BI Desktop
+Power Query
+DAX
+Data Modeling
+Interactive Visualizations
 ## Campaign Performance
 
 Evaluates campaign effectiveness by analyzing purchases, sales revenue, products purchased, marketing channels, and customer spending patterns.
