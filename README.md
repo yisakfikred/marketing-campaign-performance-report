@@ -5,6 +5,12 @@ Marketing teams invest significant resources in campaigns but often lack visibil
 ## Project Goal
 
 Build a Power BI dashboard that evaluates campaign effectiveness, analyzes customer demographics and purchasing patterns, and identifies the key drivers behind campaign acceptance and sales growth.
+## Key Insights
+- Campaign effectiveness varies significantly, with certain campaigns generating higher sales and conversion rates.
+- Customer demographics influence purchasing behavior and campaign response.
+- Different marketing platforms contribute differently to campaign success.
+- Income, family composition, and age can impact campaign acceptance rates.
+- Understanding purchase drivers helps optimize future marketing investments and improve sales outcomes.
 ## Skills Demonstrated
 
 - Data Cleaning & Transformation (Power Query)
