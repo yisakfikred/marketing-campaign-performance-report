@@ -8,10 +8,13 @@ Build a Power BI dashboard that evaluates campaign effectiveness, analyzes custo
 ## Campaign Performance
 
 Evaluates campaign effectiveness by analyzing purchases, sales revenue, products purchased, marketing channels, and customer spending patterns.
+
 ![Campaign Performance](https://github.com/yisakfikred/marketing-campaign-performance-report/blob/main/1_Campaign%20Performance.PNG?raw=true)
 ## Buyers Composition
 Explores customer demographics, including education, marital status, income, family composition, and age-based purchasing preferences.
+
 ![Buyers Composition](https://github.com/yisakfikred/marketing-campaign-performance-report/blob/main/2_Buyers%20Composition.PNG?raw=true)
 ## Purchase Drivers
 Identifies the factors influencing campaign acceptance and explains the key drivers behind changes in sales performance.
+
 ![Purchase Drivers](https://github.com/yisakfikred/marketing-campaign-performance-report/blob/main/3_Purchase%20Drivers.PNG?raw=true)
